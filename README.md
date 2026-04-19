@@ -1,1 +1,1 @@
-# IRIS-Infra-Red-Interrupt-System-
+# IRIS (Infra-Red Interrupt System)
