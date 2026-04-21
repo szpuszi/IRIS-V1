@@ -25,7 +25,7 @@ BOM is located [Here](Manufacturing/BOM.csv)
 ## Fallout Zine Page
 <img width="1410" height="2000" alt="zine_page" src="https://github.com/user-attachments/assets/6ddaf53f-13d9-43ec-97d0-c528ad793da2" />
 
-## 📷 Gallery  
+# 📷 Gallery  
 ## PCB
 <img width="1207" height="634" alt="obraz" src="https://github.com/user-attachments/assets/005fccd3-d36c-4258-bae4-13ec9c607446" />
 
