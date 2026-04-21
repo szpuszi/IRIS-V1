@@ -1,4 +1,4 @@
-# IRIS (Infra-Red Interrupt System)
+# 🛰 IRIS (Infra-Red Interrupt System)
 IRIS is an open-hardware project designed to teach the basics of electronics, soldering and basic components. With this device you can shut down almost any IR-controlled device, like TVs.
 ## 🎯 Why I made it?
 I created IRIS for people interested in hardware hacking. It help young enthusiasts understand how different components communicate. By soldering the PCB themselves, makers see the connections between the code and the physical hardware.
