@@ -23,7 +23,7 @@ The battery is charged using Adafruit Micro-Lipo Charger for LiPoly Batt with US
 BOM is located [Here](Manufacturing/BOM.csv)
 
 ## Fallout Zine Page
-[](images/zine.png)
+![Zine Page](images/zine_page.png)
 
 
 ## 📷 Gallery  
