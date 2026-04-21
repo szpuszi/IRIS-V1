@@ -26,6 +26,7 @@ BOM is located [Here](Manufacturing/BOM.csv)
 ![Zine Page](images/zine_page.png)
 
 
+
 ## 📷 Gallery  
 ## PCB
 <img width="1207" height="634" alt="obraz" src="https://github.com/user-attachments/assets/005fccd3-d36c-4258-bae4-13ec9c607446" />
