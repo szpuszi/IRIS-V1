@@ -29,6 +29,11 @@ The battery is charged using Adafruit Micro-Lipo Charger for LiPoly Batt with US
 
 ## 📋 BOM
 BOM is located [Here](Manufacturing/BOM.csv)
+You will also need:
+- soldering iron and solder
+- glue (for the case)
+- double sided tape (for battery, pcb and charging module)
+- cutting pliers
 
 ## 📔 Guide
 The educational manual and Troubleshooting FAQ are currently being written.
