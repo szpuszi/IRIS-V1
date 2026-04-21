@@ -60,3 +60,4 @@ The educational manual and Troubleshooting FAQ are currently being written.
 <img width="585" height="427" alt="obraz-removebg-preview(1)" src="https://github.com/user-attachments/assets/ccc045c4-c901-455d-982c-926cdb817327" />
 <img width="690" height="362" alt="obraz-removebg-preview" src="https://github.com/user-attachments/assets/6175c888-a9d9-424b-981b-748d3d154eda" />
 
+This project does not contain CAD files, because it was made in TinkerCAD which does not give any CAD files, just STL or OBJ
