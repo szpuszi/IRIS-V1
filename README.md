@@ -15,12 +15,23 @@ IRIS uses LP502535 (Li-PO battery), providing a great balance between size and p
 The battery is charged using Adafruit Micro-Lipo Charger for LiPoly Batt with USB Type C Jack (ID:4410).
 
 ## 📚 What will you learn?
-- Soldering
-- How MOSFETs work as electronic switches.
-- more adding later dont FORGET!!!!!!!!!!!!!!!!
+- Basic Components: Understanding why we use resistors, capacitors and how they work.
+- Soldering: Working with THT components. Cold joints
+- Transistor Logic: Understanding how a MOSFET uses a tiny voltage to control a much larger current flow.
+- Power Management: Learning to work with Li-Po batteries safely, including safe charging using adafruit 4410 module.
+- Programming: Learn how to turn an Arduino Nano into an ISP programmer to flash firmware onto standalone microcontrollers like the ATtiny85.
+- Microcontroller Basics: Getting to know ATtiny85, minimalist, compact and universal. How the ATtiny85 manages "deep sleep" mode to save battery (almost no use) and wakes up with instantly on a button press. 
+- Reading Schematics: Learn how to understand schematics. Turning a digital circuit design into a working device.
+- Ethical Hacking: What you can, and what you shouldn't do.
+- Ordering your PCB: Learn how to order your PCB.
 
 ## 📋 BOM
 BOM is located [Here](Manufacturing/BOM.csv)
+
+## 📔 Guide
+The educational manual and Troubleshooting FAQ are currently being written.
+
+<sub>The full assembly guide is planned and will begin development as soon as the parts arrive.</sub>
 
 ## Fallout Zine Page
 <img width="1410" height="2000" alt="zine_page" src="https://github.com/user-attachments/assets/6ddaf53f-13d9-43ec-97d0-c528ad793da2" />
