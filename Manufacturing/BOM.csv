@@ -8,7 +8,7 @@ R2,1,220R,220Ω Resistor,https://botland.com.pl/rezystory-przewlekane/20014-rezy
 R3,1,10K,10KΩ Resistor,https://botland.com.pl/rezystory-przewlekane/20150-rezystor-justpi-tht-cf-weglowy-14w-10k-30szt-5904422329280.html
 SW1,1,Button,Tact switch 6x6mm 17mm,https://allegro.pl/oferta/tact-switch-6x6mm-h-17mm-5szt-14449143480
 U1,1,ATtiny85-20P,ATtiny85-20PU (DIP-8),https://botland.com.pl/avr-w-obudowie-tht/2795-mikrokontroler-avr-attiny85-20pu-5904422331177.html
-none,1,none,Breadboard (for programming ATtiny85-20P),https://botland.com.pl/plytki-stykowe/1143-plytka-stykowa-400-otworow-przezroczysta-5904422303457.html
+none,1,none,Breadboard (for programming ATtiny85-20P),https://botland.com.pl/plytki-stykowe/19943-plytka-stykowa-justpi-830-otworow-5904422328610.html
 none,1,none,"Arduino Nano, or any other arduino clone (used for programming ATtiny85-20P)",https://allegro.pl/oferta/nano-3-0-atmega328-ch340-kompatybilny-z-arduino-usb-c-niezlutowany-16578881126?bi_s=ads&bi_m=productlisting:desktop:query&bi_c=YjZjZGNjM2YtNzJlYS00ODI2LWJkMGYtMmU3ZjY2NjZlY2QzAA&bi_t=ape&referrer=proxy&emission_unit_id=14722f74-ce32-4fdc-acb4-0dcbdba13c6f
 none,1,none,Dupont wires (for connecting Arduino with ATtiny85-20P and breadboard),https://botland.com.pl/przewody-polaczeniowe/19946-zestaw-przewodow-polaczeniowych-justpi-20cm-3x40szt-m-m-z-z-m-z-120szt-5904422328702.html
 none,1,none,Adafruit Micro-Lipo Charger for LiPoly Batt with USB Type C Jack (ID:4410),https://www.adafruit.com/product/4410?srsltid=AfmBOorncNOWt1egOeEq1IOnFflrgL5dVPXEL2cLVGVNT9tOS6qbx_B8
