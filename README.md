@@ -29,6 +29,7 @@ The battery is charged using Adafruit Micro-Lipo Charger for LiPoly Batt with US
 
 ## 📋 BOM
 BOM is located [Here](Manufacturing/BOM.csv)
+Total is ≈ 38.67USD
 You will also need:
 - soldering iron and solder
 - glue (for the case)
