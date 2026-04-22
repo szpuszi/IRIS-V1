@@ -18,10 +18,10 @@ The battery is charged using Adafruit Micro-Lipo Charger for LiPoly Batt with US
 
 ## 📚 What will you learn?
 - Basic Components: Understanding why we use resistors, capacitors and how they work.
-- Soldering: Working with THT components. Cold joints
+- Soldering: Working with THT components. Cold joints etc.
 - Transistor Logic: Understanding how a MOSFET uses a tiny voltage to control a much larger current flow.
-- Power Management: Learning to work with Li-Po batteries safely, including safe charging using adafruit 4410 module.
-- Programming: Learn how to turn an Arduino Nano into an ISP programmer to flash firmware onto standalone microcontrollers like the ATtiny85.
+- Power Management: Learning to work with Li-Po batteries safely, including charging using adafruit 4410.
+- Programming: How to turn an Arduino Nano into an ISP programmer to flash firmware onto standalone microcontrollers like the ATtiny85.
 - Microcontroller Basics: Getting to know ATtiny85, minimalist, compact and universal. How the ATtiny85 manages "deep sleep" mode to save battery (almost no use) and wakes up with instantly on a button press. 
 - Reading Schematics: Learn how to understand schematics. Turning a digital circuit design into a working device.
 - Ethical Hacking: What you can, and what you shouldn't do.
