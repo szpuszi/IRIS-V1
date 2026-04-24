@@ -2,7 +2,7 @@ Reference,Qty,Value,Description,Link
 C1,1,470uF,Electrolytic capacitor,https://botland.com.pl/kondensatory-low-esr/902-kondensator-elektrolityczny-low-esr-470uf25v-8x12mm-105c-tht-10szt-5904422329778.html
 "D1,D2",2,IRLED,TSAL6100,https://allegro.pl/oferta/dioda-led-5mm-ir-podczerwona-940nm-tsal6100-1840-16012569326
 J1,1,Conn_01x02,28AWG wire for connecting battery and PCB,https://allegro.pl/oferta/przewod-awg28-14-zylowy-wielokolorowy-3919-10868617448
-Q1,1,IRLZ44N,IRLZ44N TO-220,https://allegro.pl/oferta/bs170-on-semiconductor-10-sztuk-17287169257?offerId=17287169257&inventoryUnitId=SqeQXnIp5SzKqAL1ZxF2Bg&adGroupId=ZDdjMWIyMmEtM2JlZi00OTdkLTllNmUtNjhjZWUwOTFkZGIyAA&campaignId=YjMwMWY3YmUtNjg5Ni00ZWNlLWIyYTEtNDA5N2E2MTA5MTA0AA&clientId=MTA3ODE5NzI2ADIzNTcxMTUA&sig=db363a4307716aaa2d0fe5c34b77279c&utm_feed=cba59b59-8d0f-48d0-98a0-e9d1127523e2&utm_source=google&utm_medium=ads&gad_source=1&gad_campaignid=23562692578&gclid=CjwKCAjwwJzPBhBREiwAJfHRndQNfUIzvDXxMuOd2nCPg_yvjBKzNBgrsj7ycZeDCmvcer7Fr6hFRBoCdAUQAvD_BwE
+Q1,1,IRLZ44N,IRLZ44N TO-220,https://allegro.pl/produkt/tranzystor-international-rectifier-irlz44n-a8b5211f-ba2b-43ab-8290-c58684b65e1a?offerId=18157580899
 R1,1,1.5R,1.5Ω Resistor,https://botland.com.pl/rezystory-przewlekane/20007-rezystor-justpi-tht-cf-weglowy-14w-15-30szt-5904422328955.html
 R2,1,220R,220Ω Resistor,https://botland.com.pl/rezystory-przewlekane/20014-rezystor-justpi-tht-cf-weglowy-14w-220-30szt-5904422329020.html
 R3,1,10K,10KΩ Resistor,https://botland.com.pl/rezystory-przewlekane/20150-rezystor-justpi-tht-cf-weglowy-14w-10k-30szt-5904422329280.html
