@@ -1,11 +1,11 @@
-# 🛰 IRIS (Infra-Red Interrupt System)
+# IRIS (Infra-Red Interrupt System)
 IRIS is an open-hardware project designed to teach the basics of electronics, soldering and basic components. With this device you can shut down almost any IR-controlled device, like TVs.
 
 The firmware is currently in **ALPHA** stage, it does not fully work now. It will be updated when I get the parts.
-## 🎯 Why I made it?
+## Why I made it?
 I created IRIS for people interested in hardware hacking. It help young enthusiasts understand how different components communicate. By soldering the PCB themselves, makers see the connections between the code and the physical hardware.
 
-## ⚙ How it works? 
+## How it works? 
 1. Brain: The ATtiny85 microcontroller stores the IR codes.
 2. Logic: When the button is pressed the MCU wakes up and sends a modulated signal.
 3. Driver: Since IR LEDs require more current than the MCU can provide, we use a BS170 MOSFET.
@@ -27,7 +27,7 @@ The battery is charged using Adafruit Micro-Lipo Charger for LiPoly Batt with US
 - Ethical Hacking: What you can, and what you shouldn't do.
 - Ordering your PCB: Learn how to order your PCB.
 
-## 📋 BOM
+## BOM
 BOM is located [Here](Manufacturing/BOM.csv)
 Total is ≈ 38.67USD
 You will also need:
@@ -36,7 +36,7 @@ You will also need:
 - double sided tape (for battery, pcb and charging module)
 - cutting pliers
 
-## 📔 Guide
+## Guide
 The educational manual and Troubleshooting FAQ are currently being written.
 
 <sub>The full assembly guide is planned and will begin development as soon as the parts arrive.</sub>
@@ -44,7 +44,7 @@ The educational manual and Troubleshooting FAQ are currently being written.
 ## Fallout Zine Page
 <img width="1410" height="2000" alt="zine_page" src="https://github.com/user-attachments/assets/6ddaf53f-13d9-43ec-97d0-c528ad793da2" />
 
-# 📷 Gallery  
+# Gallery  
 ## PCB
 <img width="1207" height="634" alt="obraz" src="https://github.com/user-attachments/assets/005fccd3-d36c-4258-bae4-13ec9c607446" />
 
