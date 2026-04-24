@@ -46,16 +46,17 @@ The educational manual and Troubleshooting FAQ are currently being written.
 
 # Gallery  
 ## PCB
-<img width="1008" height="543" alt="obraz" src="https://github.com/user-attachments/assets/858f8fba-e9c5-4061-88f3-76e027910c20" />
+<img width="1241" height="655" alt="obraz" src="https://github.com/user-attachments/assets/4802341f-1707-48b8-919d-200e0f6ae187" />
 
 ## Schematic
-<img width="1059" height="809" alt="obraz" src="https://github.com/user-attachments/assets/ac104fef-7b56-407f-a997-88769b030d60" />
+<img width="1041" height="781" alt="obraz" src="https://github.com/user-attachments/assets/f10c117b-85ef-47b9-b90b-fbea57ab7f54" />
 
 ## 3D PCB
-<img width="847" height="483" alt="obraz" src="https://github.com/user-attachments/assets/e6c889c4-f678-4eb0-8134-28cd24409582" />
-<img width="516" height="778" alt="obraz" src="https://github.com/user-attachments/assets/3767cf20-6280-4aaf-954e-3a1c8a9ab63d" />
-<img width="613" height="759" alt="obraz" src="https://github.com/user-attachments/assets/c0e37132-1756-49b0-8773-d2ed3f02e640" />
-<img width="492" height="876" alt="obraz" src="https://github.com/user-attachments/assets/eb5950b1-508d-4d7c-88e3-da19b0e3839b" />
+<img width="1082" height="642" alt="obraz" src="https://github.com/user-attachments/assets/b7f44ddc-6cea-4148-9ed4-4c5aded12e7e" />
+<img width="1395" height="805" alt="obraz" src="https://github.com/user-attachments/assets/0ee7ddba-56e9-45a9-a6fd-e1ca61b0fa02" />
+<img width="967" height="796" alt="obraz" src="https://github.com/user-attachments/assets/bb3070b4-51d6-461c-8c81-5b8ad866b889" />
+<img width="557" height="874" alt="obraz" src="https://github.com/user-attachments/assets/7e4333eb-97c3-4e17-9c45-86c88ba4fed9" />
+
 
 ## Case
 <img width="585" height="427" alt="obraz-removebg-preview(1)" src="https://github.com/user-attachments/assets/ccc045c4-c901-455d-982c-926cdb817327" />
