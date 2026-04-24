@@ -17,7 +17,7 @@ IRIS uses LP502535 (Li-PO battery), providing a great balance between size and p
 The battery is charged using Adafruit Micro-Lipo Charger for LiPoly Batt with USB Type C Jack (ID:4410).
 
 ## What will you learn?
-- Basic Components: Understanding why we use resistors, capacitors and how they work.
+- Basic Components: Understanding why we use resistors, electrolytic and ceramic capacitors and how they work.
 - Soldering: Working with THT components. Cold joints etc.
 - Transistor Logic: Understanding how a MOSFET uses a tiny voltage to control a much larger current flow.
 - Power Management: Learning to work with Li-Po batteries safely, including charging using adafruit 4410.
