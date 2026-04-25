@@ -5,8 +5,8 @@ C2,1,100nF,Ceramic capacitor,https://www.tme.eu/pl/details/k104k10x7rf5uh5/konde
 J1,1,Conn_01x02,28AWG wire for connecting battery and PCB,https://allegro.pl/oferta/przewod-awg28-14-zylowy-wielokolorowy-3919-10868617448
 Q1,1,IRLZ44N,IRLZ44N TO-220,https://www.tme.eu/pl/details/irlz44npbf/tranzystory-z-kanalem-n-tht/infineon-technologies/
 R1 R4,2,1.5R,1.5Ω 3W Resistor,https://www.tme.eu/pl/details/sp123wf150kt2e/rezystory-smd/royalohm/
-R2,1,220R,220Ω Resistor,https://botland.com.pl/rezystory-przewlekane/20014-rezystor-justpi-tht-cf-weglowy-14w-220-30szt-5904422329020.html
-R3,1,10K,10KΩ Resistor,https://botland.com.pl/rezystory-przewlekane/20150-rezystor-justpi-tht-cf-weglowy-14w-10k-30szt-5904422329280.html
+R2,1,220R,220Ω Resistor,https://www.tme.eu/pl/details/1_4w220r/rezystory-tht/royalohm/cfr0w4j0221a50/
+R3,1,10K,10KΩ Resistor,https://www.tme.eu/pl/details/cf1_4w-10k/rezystory-tht/sr-passives/
 SW1,1,Button,Tact switch 6x6mm 17mm,https://www.tme.eu/pl/details/tl1105lf250q/mikroprzelaczniki-tact/e-switch/
 U1,1,ATtiny85-20P,ATtiny85-20PU (DIP-8),https://www.tme.eu/pl/details/attiny85-20pu/rodzina-avr-8-bit/microchip-technology/
 none,1,none,Breadboard (for programming ATtiny85-20P),https://botland.com.pl/plytki-stykowe/19943-plytka-stykowa-justpi-830-otworow-5904422328610.html
