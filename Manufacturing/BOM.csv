@@ -1,5 +1,5 @@
 Reference,Qty,Value,Description,Link
-C1,1,470uF,Electrolytic capacitor,https://botland.com.pl/kondensatory-low-esr/902-kondensator-elektrolityczny-low-esr-470uf25v-8x12mm-105c-tht-10szt-5904422329778.html
+C1,C3,1,470uF,Electrolytic capacitor,https://botland.com.pl/kondensatory-low-esr/902-kondensator-elektrolityczny-low-esr-470uf25v-8x12mm-105c-tht-10szt-5904422329778.html
 C2,1,100nF,Ceramic capacitor,https://botland.com.pl/kondensatory-ceramiczne-tht/210-kondensator-ceramiczny-100nf50v-tht-10szt-5903351248198.html
 "D1,D2",2,IRLED,TSAL6100,https://allegro.pl/oferta/dioda-led-5mm-ir-podczerwona-940nm-tsal6100-1840-16012569326
 J1,1,Conn_01x02,28AWG wire for connecting battery and PCB,https://allegro.pl/oferta/przewod-awg28-14-zylowy-wielokolorowy-3919-10868617448
