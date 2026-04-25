@@ -7,7 +7,7 @@ Q1,1,IRLZ44N,IRLZ44N TO-220,https://allegro.pl/produkt/tranzystor-international-
 R1 R4,2,1.5R,1.5Ω 3W Resistor,https://www.tme.eu/pl/details/sp123wf150kt2e/rezystory-smd/royalohm/
 R2,1,220R,220Ω Resistor,https://botland.com.pl/rezystory-przewlekane/20014-rezystor-justpi-tht-cf-weglowy-14w-220-30szt-5904422329020.html
 R3,1,10K,10KΩ Resistor,https://botland.com.pl/rezystory-przewlekane/20150-rezystor-justpi-tht-cf-weglowy-14w-10k-30szt-5904422329280.html
-SW1,1,Button,Tact switch 6x6mm 17mm,https://allegro.pl/oferta/tact-switch-6x6mm-h-17mm-5szt-14449143480
+SW1,1,Button,Tact switch 6x6mm 17mm,https://www.tme.eu/pl/details/tl1105lf250q/mikroprzelaczniki-tact/e-switch/
 U1,1,ATtiny85-20P,ATtiny85-20PU (DIP-8),https://www.tme.eu/pl/details/attiny85-20pu/rodzina-avr-8-bit/microchip-technology/
 none,1,none,Breadboard (for programming ATtiny85-20P),https://botland.com.pl/plytki-stykowe/19943-plytka-stykowa-justpi-830-otworow-5904422328610.html
 none,1,none,"Arduino Nano, or any other arduino clone (used for programming ATtiny85-20P)",https://allegro.pl/oferta/nano-3-0-atmega328-ch340-kompatybilny-z-arduino-usb-c-niezlutowany-16578881126?bi_s=ads&bi_m=productlisting:desktop:query&bi_c=YjZjZGNjM2YtNzJlYS00ODI2LWJkMGYtMmU3ZjY2NjZlY2QzAA&bi_t=ape&referrer=proxy&emission_unit_id=14722f74-ce32-4fdc-acb4-0dcbdba13c6f
