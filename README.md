@@ -13,23 +13,23 @@ I created IRIS for people interested in hardware hacking. It help young enthusia
 
 
 ## Power
-IRIS uses LP502535 (Li-PO battery), providing a great balance between size and power.
-The battery is charged using Adafruit Micro-Lipo Charger for LiPoly Batt with USB Type C Jack (ID:4410).
+IRIS uses LP403035.
+The battery is charged using PiMoroni PIM611.
 
 ## What will you learn?
 - Basic Components: Understanding why we use resistors, electrolytic and ceramic capacitors and how they work.
-- Soldering: Working with THT components. Cold joints etc.
+- Soldering: Working with THT and SMD components. Cold joints etc.
 - Transistor Logic: Understanding how a MOSFET uses a tiny voltage to control a much larger current flow.
-- Power Management: Learning to work with Li-Po batteries safely, including charging using adafruit 4410.
-- Programming: How to turn an Arduino Nano into an ISP programmer to flash firmware onto standalone microcontrollers like the ATtiny85.
-- Microcontroller Basics: Getting to know ATtiny85, minimalist, compact and universal. How the ATtiny85 manages "deep sleep" mode to save battery (almost no use) and wakes up with instantly on a button press. 
+- Power Management: Learning to work with Li-Po batteries safely, including charging.
+- Programming: How to turn an Arduino into an ISP programmer to flash firmware onto standalone microcontrollers like the ATtiny85.
+- Microcontroller Basics: Getting to know ATtiny85 compact and universal microcontroller. How the ATtiny85 manages "deep sleep" mode to save battery (almost no use) and wakes up with instantly on a button press. 
 - Reading Schematics: Learn how to understand schematics. Turning a digital circuit design into a working device.
 - Ethical Hacking: What you can, and what you shouldn't do.
 - Ordering your PCB: Learn how to order your PCB.
 
 ## BOM
 BOM is located [Here](Manufacturing/BOM.csv)
-Total is ≈ 38.67USD
+Total is ≈ 60USD
 You will also need:
 - soldering iron and solder
 - glue (for the case)
@@ -46,20 +46,22 @@ The educational manual and Troubleshooting FAQ are currently being written.
 
 # Gallery  
 ## PCB
-<img width="1241" height="655" alt="obraz" src="https://github.com/user-attachments/assets/4802341f-1707-48b8-919d-200e0f6ae187" />
+<img width="1497" height="794" alt="obraz" src="https://github.com/user-attachments/assets/6b3289f8-2565-4e50-9ea2-64be3bd706c2" />
 
 ## Schematic
-<img width="1041" height="781" alt="obraz" src="https://github.com/user-attachments/assets/f10c117b-85ef-47b9-b90b-fbea57ab7f54" />
+<img width="563" height="424" alt="obraz" src="https://github.com/user-attachments/assets/b44614c0-ba58-4a82-87d0-667adcf9b703" />
 
 ## 3D PCB
-<img width="1082" height="642" alt="obraz" src="https://github.com/user-attachments/assets/b7f44ddc-6cea-4148-9ed4-4c5aded12e7e" />
-<img width="1395" height="805" alt="obraz" src="https://github.com/user-attachments/assets/0ee7ddba-56e9-45a9-a6fd-e1ca61b0fa02" />
-<img width="967" height="796" alt="obraz" src="https://github.com/user-attachments/assets/bb3070b4-51d6-461c-8c81-5b8ad866b889" />
-<img width="557" height="874" alt="obraz" src="https://github.com/user-attachments/assets/7e4333eb-97c3-4e17-9c45-86c88ba4fed9" />
-
+<img width="1043" height="601" alt="obraz" src="https://github.com/user-attachments/assets/bb4b3f0c-79d6-4554-b332-fa254ba0a208" />
+<img width="1326" height="742" alt="obraz" src="https://github.com/user-attachments/assets/17d849b5-202a-475c-89f4-94fe36980149" />
+<img width="873" height="821" alt="obraz" src="https://github.com/user-attachments/assets/5f6107d1-3ca1-4606-83c5-371ff59d6a5b" />
+<img width="446" height="804" alt="obraz" src="https://github.com/user-attachments/assets/6bb18ad8-a31b-4138-adf3-412ffe6fb6cc" />
 
 ## Case
 <img width="585" height="427" alt="obraz-removebg-preview(1)" src="https://github.com/user-attachments/assets/ccc045c4-c901-455d-982c-926cdb817327" />
 <img width="690" height="362" alt="obraz-removebg-preview" src="https://github.com/user-attachments/assets/6175c888-a9d9-424b-981b-748d3d154eda" />
 
-This project does not contain CAD files, because it was made in TinkerCAD which does not give any CAD files, just STL or OBJ
+This project does not contain CAD files, because it was made in TinkerCAD which does not give any CAD files, just STL or OBJ.
+Here are the links to the tinkercad projects:
+https://www.tinkercad.com/things/0kFkgZtLTJc-iriscasebottom
+https://www.tinkercad.com/things/4aSEeWgEWbN-iriscasetop
