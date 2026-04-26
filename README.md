@@ -22,7 +22,7 @@ The battery is charged using PiMoroni PIM611.
 - Transistor Logic: Understanding how a MOSFET uses a tiny voltage to control a much larger current flow.
 - Power Management: Learning to work with Li-Po batteries safely, including charging.
 - Programming: How to turn an Arduino into an ISP programmer to flash firmware onto standalone microcontrollers like the ATtiny85.
-- Microcontroller Basics: Getting to know ATtiny85 compact and universal microcontroller. How the ATtiny85 manages "deep sleep" mode to save battery (almost no use) and wakes up with instantly on a button press. 
+- Microcontroller Basics: Getting to know ATtiny85, compact and universal microcontroller. How the ATtiny85 manages "deep sleep" mode to save battery (almost no use) and wakes up with instantly on a button press. 
 - Reading Schematics: Learn how to understand schematics. Turning a digital circuit design into a working device.
 - Ethical Hacking: What you can, and what you shouldn't do.
 - Ordering your PCB: Learn how to order your PCB.
