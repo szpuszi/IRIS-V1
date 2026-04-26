@@ -29,7 +29,9 @@ The battery is charged using PiMoroni PIM611.
 
 ## BOM
 BOM is located [Here](Manufacturing/BOM.csv)
+
 Total is ≈ 60USD
+
 You will also need:
 - soldering iron and solder
 - glue (for the case)
